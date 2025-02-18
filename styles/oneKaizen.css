@@ -310,6 +310,15 @@ body {
     .one {
         font-size: 40px;
         color: #00aaff;
+        font-family: Impact;
+    }
+
+    .hero-title h1 {
+        font-family: Impact;
+    }
+
+    .hero-subtitle p {
+        font-family: Impact;
     }
 
     .two {
