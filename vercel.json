@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-      { "source": "/about", "destination": "/pages/aboutKaizen.html" },
-      { "source": "/services", "destination": "/pages/serviceKaizen.html" },
-      { "source": "/workouts", "destination": "/pages/workoutKaizen.html" }
-    ]
-  }
-  
