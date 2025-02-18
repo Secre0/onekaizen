@@ -245,6 +245,11 @@ body {
 }
 
 @media (max-width: 768px) {
+    body {
+        font-family:  Raleway;
+        font-weight: 200;
+    }
+    
     .navbar {
         background-color: black;
     }
