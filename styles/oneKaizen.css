@@ -286,11 +286,13 @@ body {
 
     .heroContainer h1 {
         font-size: 50px;
+        font-family: Impact;
     }
 
     .heroContainer p {
         font-size: 16px;
         font-weight: 200;
+        font-family: Impact;
     }
 
     .btn {
