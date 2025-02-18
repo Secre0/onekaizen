@@ -48,12 +48,14 @@ body {
     color: aliceblue;
     font-size: 80px;
     font-weight: 1000;
+    font-family: Impact;
 }
 
 .heroContainer p {
     color: aliceblue;
     font-size: 33px;
     font-weight:400;
+    font-family: Impact;
 }
 
 .one {
